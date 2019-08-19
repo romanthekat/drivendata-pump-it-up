@@ -8,10 +8,10 @@ https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table
 
 ## Current results:
 ```
-Random forest             0.8097643097643098
-XGBoost                   0.7463804713804714
-K-Nearest Neighbors       0.5784511784511784
-Multi-layer perceptron    0.5424242424242425
-Support Vector Machine    0.5424242424242425
-Naive Bayes               0.41464646464646465
+Random forest             0.8804099524603322
+XGBoost                   0.8222510341421251
+K-Nearest Neighbors       0.662283138852874
+Multi-layer perceptron    0.39464098289806754
+Support Vector Machine    0.3232080014817559
+Naive Bayes               0.30178428103969873
 ```
